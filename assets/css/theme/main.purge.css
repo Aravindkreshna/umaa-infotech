@@ -7467,7 +7467,7 @@ textarea.form-control-lg {
 }
 
 .py-6 {
-    padding-top: 3rem !important;
+    padding-top: 10rem !important;
     padding-bottom: 3rem !important
 }
 
@@ -7640,7 +7640,7 @@ textarea.form-control-lg {
 }
 
 .fs-5 {
-    font-size: 1.125rem !important
+    font-size: 1rem !important
 }
 
 .fs-6 {
@@ -10876,7 +10876,7 @@ textarea.form-control-lg {
     }
 
     .xl\:pt-8 {
-        padding-top: 4rem !important
+        padding-top: 12rem !important
     }
 
     .xl\:pt-9 {
