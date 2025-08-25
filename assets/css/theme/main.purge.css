@@ -1551,7 +1551,7 @@ html.bp-xl .xl\:btn-xl {
 .uc-navbar-nav>li>a[aria-expanded=true]:where(.uc-dark),
 :where(.uc-dark) .uc-navbar-nav>li:hover>a,
 :where(.uc-dark) .uc-navbar-nav>li>a[aria-expanded=true] {
-    color: #fff !important
+    color: #184f27 !important
 }
 
 .uc-navbar-dropdown {

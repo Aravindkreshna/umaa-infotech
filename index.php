@@ -650,7 +650,10 @@
         <!-- Section end -->
 
         <!-- Section start -->
-        <div id="companies_sponsores" class="companies-sponsores section panel overflow-hidden">
+
+        <?php include 'clients.php';?>
+
+        <!-- <div id="companies_sponsores" class="companies-sponsores section panel overflow-hidden">
             <div class="section-outer panel">
                 <div class="container sm:max-w-md">
                     <div class="section-inner panel">
@@ -689,7 +692,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!-- Section end -->
 
@@ -894,7 +897,7 @@
                                 <div>
                                     <div class="fact-item panel vstack gap-1">
                                         <h5 class="h3 md:h2 lg:h1 xl:display-5 m-0 text-blue dark:text-secondary">#1</h5>
-                                        <h6 class="fw-bold">e-Invoicing Software in India</h6>
+                                        <h6 class="fw-bold">E-Invoicing Software in India</h6>
                                         <p>TallyPrime drives India’s highest e-invoices, trusted for compliance and business growth.</p>
                                     </div>
                                 </div>

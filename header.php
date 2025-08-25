@@ -1,3 +1,139 @@
+<!-- Mobile Menu Start  -->
+
+<!--  Menu panel -->
+    <div id="uc-menu-panel" data-uc-offcanvas="overlay: true;">
+        <div class="uc-offcanvas-bar bg-white text-dark dark:bg-gray-900 dark:text-white">
+
+            <header class="uc-offcanvas-header hstack justify-between items-center pb-2 bg-white dark:bg-gray-900">
+                <div class="uc-logo">
+                    <a class='h5 text-none text-gray-900 dark:text-white' href='index.php'>
+                        <img class="w-150px" src="./assets/images/common/logo-8-darkk.svg" alt="Umaainfotech-logo">
+                    </a>
+                </div>
+                <button class="uc-offcanvas-close rtl:end-auto rtl:start-0 m-1 mt-2 icon-3 btn border-0 dark:text-white dark:text-opacity-50 hover:text-primary hover:rotate-90 duration-150 transition-all" type="button">
+                    <i class="unicon-close"></i>
+                </button>
+            </header>
+
+            <div class="panel">
+                <!-- <form id="search-panel" class="form-icon-group vstack gap-1 mb-2" data-uc-sticky="">
+                    <input type="email" class="form-control form-control-sm fs-7 rounded-default" placeholder="Search..">
+                    <span class="form-icon text-gray">
+                        <i class="unicon-search icon-1"></i>
+                    </span>
+                </form> -->
+                <ul class="nav-y gap-narrow fw-medium fs-6 pt-4" data-uc-nav="">
+                    <li><a href='index.php'>Home</a></li>
+                    <li><a href='about.php'>About Us</a></li>
+                    <li class="uc-parent"><a href="#">Tally Products</a>
+                        <ul class="uc-nav-sub" data-uc-nav="">
+                            <li><a href='tallyprime.php'>Tally Prime</a></li>
+                            <li><a href='tally-software-services.php'>Tally Software Services</a></li>
+                            <li><a href='tally-cloud.php'>Tally on Cloud</a></li>
+                            <li><a href='tally-prime-server.php'>Tally Prime Server</a></li>
+                            <li><a href='tallyprime-aws.php'>Tally Prime on AWS</a></li>
+                        </ul>
+                    </li>
+                    <li><a href='contact.php'>Contact Us</a></li>
+                    <!-- <li><a href='page-features.html'>Features</a></li>
+                    <li><a href='page-pricing.html'>Pricing</a></li>
+                    <li><a href='page-about.html'>About</a></li>
+                    <li><a href='page-career.html'>Career</a></li>
+                    <li><a href='page-contact.html'>Contact</a></li>
+                    <li class="uc-parent"><a href="#">Inner Pages</a>
+                        <ul class="uc-nav-sub" data-uc-nav="">
+                            <li><a href='page-services.html'>Services</a></li>
+                            <li><a href='page-services-detail.html'>Services Detail</a></li>
+                            <li><a href='page-integrations.html'>Integrations</a></li>
+                            <li><a href='page-team.html'>Team</a></li>
+                            <li><a href='components.html'>Components</a></li>
+                            <li class="uc-parent"><a href='blog.html'>Blog</a>
+                                <ul class="uc-nav-sub">
+                                    <li><a href='blog.html'>Full Width</a></li>
+                                    <li><a href='blog-classic.html'>Classic</a></li>
+                                    <li><a href='blog-sidebar.html'>Sidebar</a></li>
+                                    <li><a href='blog-2cols.html'>Grid 2 Cols</a></li>
+                                    <li><a href='blog-3cols.html'>Grid 3 Cols</a></li>
+                                    <li><a href='blog-4cols.html'>Grid 4 Cols</a></li>
+                                </ul>
+                            </li>
+                            <li class="uc-parent"><a href='blog-details.html'>Blog - detail</a>
+                                <ul class="uc-nav-sub">
+                                    <li><a href='blog-details.html'>Blog detail</a></li>
+                                    <li><a href='blog-details-2.html'>Blog detail - v2</a></li>
+                                    <li><a href='blog-details-3.html'>Blog detail - v3</a></li>
+                                </ul>
+                            </li>
+                            <li class="uc-parent"><a href="#">Useful pages</a>
+                                <ul class="uc-nav-sub">
+                                    <li><a href='sign-up.html'>Sign up</a></li>
+                                    <li><a href='sign-in.html'>Sign in</a></li>
+                                    <li><a href='reset-password.html'>Reset password</a></li>
+                                    <li><a href='404.html'>404 page</a></li>
+                                    <li><a href='coming-soon.html'>Coming soon</a></li>
+                                </ul>
+                            </li>
+                            <li class="uc-parent"><a href="#">Other pages</a>
+                                <ul class="uc-nav-sub">
+                                    <li><a href='page-faq.html'>FAQ</a></li>
+                                    <li><a href='page-terms.html'>Terms of use</a></li>
+                                    <li><a href='page-privacy.html'>Privacy policy</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="uc-parent"><a href='shop.html'>Shop</a>
+                        <ul class="uc-nav-sub" data-uc-nav="">
+                            <li class="uc-parent"><a href='shop.html'>Shop layouts</a>
+                                <ul class="uc-nav-sub">
+                                    <li><a href='shop.html'>Shop 4 cols</a></li>
+                                    <li><a href='shop-3.html'>Shop 3 cols</a></li>
+                                    <li><a href='shop-2.html'>Shop 2 cols</a></li>
+                                    <li><a href='shop-sidebar.html'>Shop with sidebar</a></li>
+                                </ul>
+                            </li>
+                            <li><a href='shop-category.html'>Archive category</a></li>
+                            <li><a href='shop-product-detail.html'>Product detail</a></li>
+                            <li><a href='shop-product-detail-2.html'>Product detail - v2</a></li>
+                            <li><a href='shop-cart.html'>Cart</a></li>
+                            <li><a href='shop-cart-2.html'>Cart - v2</a></li>
+                            <li><a href='shop-checkout.html'>Checkout</a></li>
+                            <li><a href='shop-checkout-2.html'>Checkout - v2</a></li>
+                            <li><a href='shop-order.html'>Order confirmation</a></li>
+                        </ul>
+                    </li> -->
+                    <li class="hr opacity-10 my-1"></li>
+                    <!-- <li><a href='sign-up.html'>Create an account</a></li>
+                    <li><a href='sign-in.html'>Log in</a></li>
+                    <li><a href="https://themeforest.net/item/lexend-software-saas-startup-html5-template/51596504">Buy Template</a></li> -->
+                </ul>
+                <ul class="social-icons nav-x mt-4">
+                    <li>
+                        <a class="duration-150 hover:text-primary" href="https://www.linkedin.com/company/tally-umaa-infotech/" target=_blank><i class="icon icon-2 unicon-logo-linkedin"></i></a>
+                        <a class="duration-150 hover:text-primary" href="https://x.com/umaInfotech1" target=_blank><i class="icon icon-2 unicon-logo-x-filled"></i></a>
+                        <a class="duration-150 hover:text-primary" href="https://www.instagram.com/umaainfotech/" target=_blank><i class="icon icon-2 unicon-logo-instagram"></i></a>
+                        <a class="duration-150 hover:text-primary" href="https://in.pinterest.com/umaainfotech1/"><i class="icon icon-2 unicon-logo-pinterest"></i></a>
+                    </li>
+                </ul>
+                <div class="py-2 hstack gap-2 mt-4 bg-white dark:bg-gray-900" data-uc-sticky="position: bottom">
+                    <div class="vstack gap-1">
+                        <span class="fs-7 opacity-60">Select theme:</span>
+                        <div class="darkmode-trigger" data-darkmode-switch="">
+                            <label class="switch">
+                                <input type="checkbox">
+                                <span class="slider fs-5"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+<!-- Mobile menu End -->
+
+
 <header class="uc-header header-eight uc-navbar-sticky-wrap z-999 uc-dark" data-uc-sticky="start: 100vh; show-on-up: true; animation: uc-animation-slide-top; sel-target: .uc-navbar-container; cls-active: uc-navbar-sticky; cls-inactive: uc-navbar-transparent; end: !*;">
         <nav class="uc-navbar-container uc-navbar-float ft-tertiary z-1" data-anime="translateY: [-40, 0]; opacity: [0, 1]; easing: easeOutExpo; duration: 750; delay: 0;">
             <div class="uc-navbar-main" style="--uc-nav-height: 80px">
@@ -13,6 +149,8 @@
                         </div>
                         <div class="uc-navbar-center">
                             <ul class="uc-navbar-nav fs-5 gap-3 lg:gap-4 d-none lg:d-flex text-black">
+                                <li><a href='index.php'>Home</a></li>
+                                <li><a href='about.php'>About Us</a></li>
                                 <li>
                                     <a href="#">Tally Products <span data-uc-navbar-parent-icon=""></span></a>
                                     <div class="uc-dropbar uc-dropbar-top ft-primary text-unset fs-6 fw-normal hide-scrollbar p-0 rounded-2 overflow-hidden shadow-xl bg-white dark:bg-tertiary-600 dark:text-white" data-uc-drop=" offset: 8; boundary: !.uc-navbar; stretch: x; animation: uc-animation-slide-top-small; animate-out: uc-animation-slide-top-small; duration: 150;">
@@ -369,15 +507,15 @@
                                 <!-- <li>
                                     <a href='blog-sidebar.html'>Insights</a>
                                 </li>
-                                <li><a href='page-pricing-2.html'>Pricing</a></li>
-                                <li><a href='components.html'>About</a></li> -->
+                                <li><a href='page-pricing-2.html'>Pricing</a></li>-->
+                                <li><a href='contact.php'>Contact Us</a></li> 
                             </ul>
                         </div>
                         <div class="uc-navbar-right">
                             <!-- <a class='uc-link fs-5 text-dark dark:text-white' href='sign-in.html'>Log in</a> -->
                             <!-- <a class='btn btn-md btn-tertiary dark:bg-white dark:text-dark border fs-5 lg:px-3 d-none lg:d-inline-flex shadow-xs' href='sign-up.html'>Sign up</a> -->
-                            <a class='btn btn-md btn-tertiary dark:bg-blue dark:text-white border fs-5 lg:px-3 d-none lg:d-inline-flex shadow-xs' href='tel:8941001007'>+91 8941001007</a>
-                            <a class='btn btn-md btn-tertiary dark:bg-white dark:text-dark border fs-5 lg:px-3 d-none lg:d-inline-flex shadow-xs' href='#'>Contact us</a>
+                            <a class='btn btn-md btn-tertiary dark:bg-green dark:text-white border fs-5 lg:px-3 d-none lg:d-inline-flex shadow-xs' href='https://api.whatsapp.com/send?phone=918941001007'>Whatsapp Now</a>
+                            <a class='btn btn-md btn-tertiary dark:bg-white dark:text-dark border fs-5 lg:px-3 d-none lg:d-inline-flex shadow-xs' href='contact.php'>Get Free Trial</a>
                             <a class="btn btn-md btn-tertiary w-48px h-48px d-inline-flex lg:d-none" href="#uc-menu-panel" data-uc-toggle="">
                                 <i class="icon icon-2 unicon-menu"></i>
                             </a>
