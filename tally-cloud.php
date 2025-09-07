@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TallyPrime | Products | Tally Solutions Business Software for SMBs in Chennai, Tamil nadu - UMAA Infotech</title>
-    <meta name="description" content="Full-featured, professional-looking software, saas and startup website template.">
+    <meta name="description" content="tally authorised dealer in chennai, tally dealer chennai, tally partner chennai, umaa infotech tally, 3 star tally partner chennai, tally prime dealer chennai, tally software sales chennai, tally support chennai, best tally dealer in chennai, tally customization chennai">
     <meta name="keywords" content="saas, saas template, site template, software, startup, digital product, html5, landing, marketing, bootstrap, uikit3, agency, ai, digital agency, it solutions, nodejs">
     <link rel="canonical" href="https://unistudio.co/html/Lexend">
     <meta name="theme-color" content="#178d72">

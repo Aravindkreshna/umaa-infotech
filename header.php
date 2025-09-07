@@ -34,6 +34,13 @@
                             <li><a href='tallyprime-aws.php'>Tally Prime on AWS</a></li>
                         </ul>
                     </li>
+                    <li class="uc-parent"><a href="#">Pricing</a>
+                        <ul class="uc-nav-sub" data-uc-nav="">
+                            <li><a href='new-pricing.php'>New pricing</a></li>
+                            <li><a href='renew-pricing.php'>Renew pricing</a></li>
+                            <li><a href='upgrade-pricing.php'>Upgrade pricing</a></li>
+                        </ul>
+                    </li>
                     <li><a href='contact.php'>Contact Us</a></li>
                     <!-- <li><a href='page-features.html'>Features</a></li>
                     <li><a href='page-pricing.html'>Pricing</a></li>
@@ -345,6 +352,63 @@
                                                 </li>
                                             </ul>
                                         </div> -->
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="#" class="gap-narrow">Pricing<i class="icon-narrow fw-bold unicon-chevron-down"></i></a>
+                                    <div class="uc-navbar-dropdown w-600px ft-primary text-unset fs-6 fw-normal p-0 hide-scrollbar rounded-1-5 overflow-hidden" data-uc-drop="mode: hover; offset: 8; boundary: !.uc-navbar; animation: uc-animation-slide-top-small; duration: 150;">
+                                        <div class="row child-cols-6 g-0 col-match">
+                                            <div>
+                                                <ul class="uc-nav uc-navbar-dropdown-nav p-2">
+                                                    <li>
+                                                        <a class='hstack items-start gap-2 p-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150 rounded-1-5' href='new-pricing.php'>
+                                                            <!-- <i class="icon-1 unicon-checkmark text-primary dark:text-secondary"></i> -->
+                                                            <span class="vstack gap-narrow mt-nnarrow">
+                                                                <h6 class="h6 m-0 dark:text-white">New Pricing</h6>
+                                                                <span class="fs-8 fw-normal opacity-60">Seamlessly integrate Tally with other software.</span>
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class='hstack items-start gap-2 p-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150 rounded-1-5' href='renew-pricing.php'>
+                                                            <!-- <i class="icon-1 unicon-chart-pie text-primary dark:text-secondary"></i> -->
+                                                            <span class="vstack gap-narrow mt-nnarrow">
+                                                                <h6 class="h6 m-0 dark:text-white">Renew Pricing</h6>
+                                                                <span class="fs-8 fw-normal opacity-60">Are you already using TallyPrime? Renew TSS Now.</span>
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class='hstack items-start gap-2 p-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150 rounded-1-5' href='upgrade-pricing.php'>
+                                                            <!-- <i class="icon-1 unicon-increase-level text-primary dark:text-secondary"></i> -->
+                                                            <span class="vstack gap-narrow mt-nnarrow">
+                                                                <h6 class="h6 m-0 dark:text-white">Upgrade Pricing</h6>
+                                                                <span class="fs-8 fw-normal opacity-60">Not using latest version of TallyPrime? Upgrade Now.</span>
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div>
+                                                <div class="vstack gap-2 p-3 h-100 bg-gray-25 dark:bg-gray-300 dark:bg-opacity-5">
+                                                    <div class="featured-image panel" data-uc-lightbox="video-autoplay: true;">
+                                                        <figure class="featured-image m-0 rounded ratio ratio-3x2 rounded-1-5 uc-transition-toggle overflow-hidden">
+                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="./assets/images/template/login.webp" alt="Image">
+                                                        </figure>
+                                                        <!-- <button class="btn btn-md btn-alt-primary p-0 w-32px h-32px position-absolute bottom-0 ltr:start-0 rtl:end-0 m-2"><i class="icon-1 unicon-play-filled-alt"></i></button> -->
+                                                        <!-- <a href="./assets/images/media/lexend_vid.webm" data-caption="Easy project managment of any complexity." data-attrs="width: 640; height: 480;" class="position-cover"></a> -->
+                                                        <!-- <a href="./assets/images/media/lexend_vid.webm" data-caption="Easy project managment of any complexity." data-attrs="width: 640; height: 480;" class="position-cover"></a> -->
+                                                    </div>
+                                                    <div class="vstack justify-between gap-2">
+                                                        <div class="vstack gap-1">
+                                                            <h6 class="h6 xl:h5 m-0">Everything you need is right at your fingertips</h6>
+                                                            <!-- <p class="fs-7 opacity-70">Say goodbye to the hassle of managing multiple software and tools.</p> -->
+                                                        </div>
+                                                        <a class='btn btn-md btn-primary fs-6 px-4 rounded-2 d-none lg:d-flex' href='page-pricing.html'>Start free trial</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </li>
                                 <!-- <li>

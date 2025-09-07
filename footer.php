@@ -58,16 +58,14 @@
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
-                                <!-- <div class="d-none lg:d-block">
+                                <div class="d-none lg:d-block">
                                     <ul class="nav-y gap-2 fw-medium text-white">
-                                        <li><a href='blog.html'>Blog</a></li>
-                                        <li><a href="#">Newsletter</a></li>
-                                        <li><a href="#">Events</a></li>
-                                        <li><a href="#">Help center</a></li>
-                                        <li><a href="#">Tutorials</a></li>
-                                        <li><a href="#">Support</a></li>
+                                        <li class="h6 pb-2"><strong>Pricing</strong></li>
+                                        <li><a href="new-pricing.php">New Pricing</a></li>
+                                        <li><a href="renew-pricing.php">Renew Pricing</a></li>
+                                        <li><a href="upgrade-pricing">Upgrade Pricing</a></li>                                        
                                     </ul>
-                                </div> -->
+                                </div>
                             </div>
                         </div>
                         <div class="uc-footer-bottom panel vstack lg:hstack gap-1 justify-between text-center pt-2 lg:pt-2  border-top">

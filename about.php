@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About us - Umaa Infotech</title>
-    <meta name="description" content="Full-featured, professional-looking software, saas and startup website template.">
+    <title>About Us | Umaa Infotech – Tally Authorised Dealer in Chennai (3 Star Partner)</title>
+    <meta name="description" content="Discover Umaa Infotech, a leading 3 Star Tally Authorised Partner in Chennai. With years of expertise, we provide Tally sales, support, training & customization to empower businesses.">
     <meta name="keywords" content="saas, saas template, site template, software, startup, digital product, html5, landing, marketing, bootstrap, uikit3, agency, ai, digital agency, it solutions, nodejs">
-    <link rel="canonical" href="https://unistudio.co/html/Lexend">
+    <!-- <link rel="canonical" href="https://unistudio.co/html/Lexend"> -->
     <meta name="theme-color" content="#178d72">
 
     <!-- Open Graph Tags -->
