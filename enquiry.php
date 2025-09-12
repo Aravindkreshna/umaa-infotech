@@ -4,10 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About us | Tally Prime - Tally ERP 9 | Tally Solutions Business Software for SMBs in Chennai, Tamil nadu - UMAA Infotech</title>
-    <meta name="description" content="Full-featured, professional-looking software, saas and startup website template.">
-    <meta name="keywords" content="saas, saas template, site template, software, startup, digital product, html5, landing, marketing, bootstrap, uikit3, agency, ai, digital agency, it solutions, nodejs">
-    <link rel="canonical" href="https://unistudio.co/html/Lexend">
+    <title>Enquiry | Tally Prime - Tally ERP 9 | Tally Solutions Business Software for SMBs in Chennai, Tamil nadu - UMAA Infotech</title>
+    <meta name="description" content="Looking for the best Tally authorised dealer in Chennai? Umaa Infotech, a trusted 3 Star Tally Partner, offers TallyPrime sales, support, customization & training. Get genuine Tally solutions with expert service.">
     <meta name="theme-color" content="#178d72">
 
     <!-- Open Graph Tags -->

@@ -6,29 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tally Partner | Tally Prime - Tally ERP 9 | Tally Solutions Business Software for SMBs in Chennai, Tamil nadu - UMAA Infotech</title>
     <meta name="description" content="Buy Tally Prime from Official Tally Partner in Chennai with 10+ years experience and get the best deal on Tally Prime Price">
-    <meta name="keywords" content="saas, saas template, site template, software, startup, digital product, html5, landing, marketing, bootstrap, uikit3, agency, ai, digital agency, it solutions, nodejs">
-    <link rel="canonical" href="https://unistudio.co/html/Lexend">
     <meta name="theme-color" content="#178d72">
-
-    <!-- Open Graph Tags -->
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Lexend">
-    <meta property="og:description" content="Full-featured, Professional-looking SaaS, Software and Startup Site Template.">
-    <meta property="og:url" content="https://unistudio.co/html/lexend/">
-    <meta property="og:site_name" content="Lexend">
-    <meta property="og:image" content="https://unistudio.co/html/lexend/assets/images/common/seo-image.jpg">
-    <meta property="og:image:width" content="1180">
-    <meta property="og:image:height" content="600">
-    <meta property="og:image:type" content="image/png">
-
-    <!-- Twitter Card Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Lexend">
-    <meta name="twitter:description" content="Full-featured, Professional-looking SaaS, Software and Startup Site Template.">
-    <meta name="twitter:image" content="https://unistudio.co/html/lexend/assets/images/common/seo-image.jpg">
-
-    <link rel="canonical" href="./index.htm">
 
     <!-- preload head styles -->
     <link rel="preload" href="./assets/css/fonts.css" as="style">

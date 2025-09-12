@@ -7,28 +7,7 @@
     <title>Best Tally Authorised Dealer in Chennai | Umaa Infotech – 3 Star Tally Partner</title>
     <meta name="description" content="Looking for the best Tally authorised dealer in Chennai? Umaa Infotech, a trusted 3 Star Tally Partner, offers TallyPrime sales, support, customization & training. Get genuine Tally solutions with expert service.">
     <meta name="keywords" content="Tally authorised dealer in Chennai, Umaa Infotech, Tally prime Chennai, buy Tally software Chennai, Tally renewal Chennai, Tally support Chennai, Tally gold dealer Chennai, Tally ERP 9 Chennai, Tally solutions Chennai">
-    <link rel="canonical" href="https://unistudio.co/html/Lexend">
     <meta name="theme-color" content="#178d72">
-
-    <!-- Open Graph Tags -->
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Lexend">
-    <meta property="og:description" content="Full-featured, Professional-looking SaaS, Software and Startup Site Template.">
-    <meta property="og:url" content="https://unistudio.co/html/lexend/">
-    <meta property="og:site_name" content="Lexend">
-    <meta property="og:image" content="https://unistudio.co/html/lexend/assets/images/common/seo-image.jpg">
-    <meta property="og:image:width" content="1180">
-    <meta property="og:image:height" content="600">
-    <meta property="og:image:type" content="image/png">
-
-    <!-- Twitter Card Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Lexend">
-    <meta name="twitter:description" content="Full-featured, Professional-looking SaaS, Software and Startup Site Template.">
-    <meta name="twitter:image" content="https://unistudio.co/html/lexend/assets/images/common/seo-image.jpg">
-
-    <link rel="canonical" href="./index.htm">
 
     <!-- preload head styles -->
     <link rel="preload" href="./assets/css/fonts.css" as="style">
